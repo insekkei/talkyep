@@ -97,7 +97,7 @@ a:hover {color:#00A2FF;text-decoration:none;}
 .layoutH50{height:50px;}
 .layoutH40{height:40px;}
 .layoutH20{height:20px;}
-body.bodyNormal{background:#e8e8e8;/*background:url('../images/bgup.png') repeat;*/}
+body.bodyNormal{background:#e8e8e8;overflow:hidden;/*background:url('../images/bgup.png') repeat;*/}
 body.bodyHelp{background:#e8e8e8;/*background:url('../images/bgup.png') repeat;*/}
 body.bodyShare{background:url('/static/w3-img/sharebg.jpg?1123') center 0 no-repeat #000000;}
 body.bodyUser{background:#e8e8e8;/*background:url('../images/bgup.png') repeat;*/}
@@ -168,7 +168,7 @@ input.vercode { min-width:75px;width:75px;}
 /* ======= Index ======= */
 
 
-.Index .Banner {height:480px;background: url('../images/topBg.jpg') no-repeat center center #000;background-size: cover;position:relative;}
+.Index .Banner {height:480px;background: url('../images/topBg.jpg') no-repeat center center #000;background-size: cover;overflow:visible;position:relative;}
 
 .Index .intro{height:110px;background:url('../images/logonote.gif') no-repeat;}
 .Index .phoneTab{height:40px;margin-left:0px;}
