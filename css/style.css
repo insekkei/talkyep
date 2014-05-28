@@ -168,7 +168,7 @@ input.vercode { min-width:75px;width:75px;}
 /* ======= Index ======= */
 
 
-.Index .Banner {height:480px;background: url('../images/topBg.jpg') no-repeat center center #000;background-size: cover;overflow:visible;position:relative;}
+.Index .Banner {height:480px;background: url('../images/topBg.jpg') no-repeat center center #000;background-size: cover;position:relative;}
 
 .Index .intro{height:110px;background:url('../images/logonote.gif') no-repeat;}
 .Index .phoneTab{height:40px;margin-left:0px;}
